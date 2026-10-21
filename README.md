@@ -1,7 +1,7 @@
 # TechGuide Python Calculator
 
 ## About the Project
-This is a Simple Calculator application developed using Python as part of the Tech Guide Python Programming Internship (Task 2).
+This is a Simple Calculator application developed using Python as part of the Tech Guide Python Programming Internship (Task 1).
 
 ## Features
 - Addition
@@ -31,4 +31,4 @@ python calculator.py
 This project helped me practice Python functions, variables, loops, conditional statements, user input, and exception handling.
 
 ## Internship
-Tech Guide Python Programming Internship — Task 2: Calculator.
+Tech Guide Python Programming Internship — Task 1: Calculator.
